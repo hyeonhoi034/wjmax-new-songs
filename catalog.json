@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "songs": [
+    {
+      "id": "song-db8e521a37fb",
+      "version": 1,
+      "title": "고양이가 세상을 구한다!",
+      "artist": "고세구",
+      "category": "ISEDOL",
+      "size": 3141979,
+      "sha256": "29a9af45bfcbc2787891b18fb617f27bbc510081be75f66de009b7fa694e4efb",
+      "active": true,
+      "base_settings": {
+        "is_new": true,
+        "category": "ISEDOL",
+        "patterns": [
+          {
+            "id": "c9efec5f5337ca4d5e3d",
+            "key": 4,
+            "mode": "Minsu",
+            "level": 20
+          }
+        ]
+      },
+      "url": "https://github.com/hyeonhoi034/wjmax-new-songs/releases/download/untagged-d83d6582b6cdd3169426/song-db8e521a37fb-v1-29a9af45bfcb.zip"
+    }
+  ]
+}
