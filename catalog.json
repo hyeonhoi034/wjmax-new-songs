@@ -61,7 +61,7 @@
       "url": "https://github.com/hyeonhoi034/wjmax-new-songs/releases/download/wjcs-song-cc1db2018528-v1-5d408d889bfb/song-cc1db2018528-v1-5d408d889bfb.zip",
       "management": {
         "is_new": true,
-        "category": "FANMADE",
+        "category": "ISEDOL",
         "patterns": [
           {
             "id": "c9efec5f5337ca4d5e3d",
@@ -71,7 +71,7 @@
           }
         ]
       },
-      "management_revision": 3
+      "management_revision": 4
     }
   ]
 }
