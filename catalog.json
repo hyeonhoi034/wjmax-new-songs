@@ -72,6 +72,29 @@
         ]
       },
       "management_revision": 4
+    },
+    {
+      "id": "song-b24769fb470f",
+      "version": 1,
+      "title": "리와인드",
+      "artist": "이세계 아이돌",
+      "category": "FANMADE",
+      "size": 15793240,
+      "sha256": "2f45f1ba95ec95516189fafe6daf8682e807c81ab7f544008a4feda99412dcf1",
+      "active": true,
+      "base_settings": {
+        "is_new": true,
+        "category": "FANMADE",
+        "patterns": [
+          {
+            "id": "5c30538d269aacae5a9f",
+            "key": 4,
+            "mode": "Lie",
+            "level": 30
+          }
+        ]
+      },
+      "url": "https://github.com/hyeonhoi034/wjmax-new-songs/releases/download/wjcs-song-b24769fb470f-v1-2f45f1ba95ec/song-b24769fb470f-v1-2f45f1ba95ec.zip"
     }
   ]
 }
