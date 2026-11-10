@@ -3,26 +3,26 @@
   "songs": [
     {
       "id": "song-28d336526b8f",
-      "version": 2,
-      "title": "고양이가 세상을 구한다!",
-      "artist": "고세구",
+      "version": 3,
+      "title": "REBELS",
+      "artist": "이세계아이돌",
       "category": "ISEDOL",
-      "size": 4427199,
-      "sha256": "65ca52842d357f1cf1152868353a26b18970aeb1d517c613e621681131d3f3ff",
+      "size": 34568863,
+      "sha256": "dc973e999ce207af4aea3f19a6dc524e956c39596051c290cea82b112baff1fc",
       "active": true,
       "base_settings": {
         "is_new": true,
         "category": "ISEDOL",
         "patterns": [
           {
-            "id": "c9efec5f5337ca4d5e3d",
+            "id": "c66bbf117762a24977b2",
             "key": 4,
             "mode": "Minsu",
-            "level": 19
+            "level": 18
           }
         ]
       },
-      "url": "https://github.com/hyeonhoi034/wjmax-new-songs/releases/download/wjcs-song-28d336526b8f-v2-65ca52842d35/song-28d336526b8f-v2-65ca52842d35.zip"
+      "url": "https://github.com/hyeonhoi034/wjmax-new-songs/releases/download/wjcs-song-28d336526b8f-v3-dc973e999ce2/song-28d336526b8f-v3-dc973e999ce2.zip"
     }
   ]
 }
