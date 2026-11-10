@@ -58,7 +58,20 @@
           }
         ]
       },
-      "url": "https://github.com/hyeonhoi034/wjmax-new-songs/releases/download/wjcs-song-cc1db2018528-v1-5d408d889bfb/song-cc1db2018528-v1-5d408d889bfb.zip"
+      "url": "https://github.com/hyeonhoi034/wjmax-new-songs/releases/download/wjcs-song-cc1db2018528-v1-5d408d889bfb/song-cc1db2018528-v1-5d408d889bfb.zip",
+      "management": {
+        "is_new": true,
+        "category": "FANMADE",
+        "patterns": [
+          {
+            "id": "c9efec5f5337ca4d5e3d",
+            "key": 4,
+            "mode": "Minsu",
+            "level": 18
+          }
+        ]
+      },
+      "management_revision": 1
     }
   ]
 }
