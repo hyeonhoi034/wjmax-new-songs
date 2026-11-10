@@ -22,7 +22,20 @@
           }
         ]
       },
-      "url": "https://github.com/hyeonhoi034/wjmax-new-songs/releases/download/wjcs-song-28d336526b8f-v3-dc973e999ce2/song-28d336526b8f-v3-dc973e999ce2.zip"
+      "url": "https://github.com/hyeonhoi034/wjmax-new-songs/releases/download/wjcs-song-28d336526b8f-v3-dc973e999ce2/song-28d336526b8f-v3-dc973e999ce2.zip",
+      "management": {
+        "is_new": true,
+        "category": "ISEDOL",
+        "patterns": [
+          {
+            "id": "c66bbf117762a24977b2",
+            "key": 4,
+            "mode": "Minsu",
+            "level": 18
+          }
+        ]
+      },
+      "management_revision": 1
     },
     {
       "id": "song-cc1db2018528",
