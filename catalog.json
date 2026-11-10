@@ -3,16 +3,16 @@
   "songs": [
     {
       "id": "song-28d336526b8f",
-      "version": 1,
+      "version": 2,
       "title": "고양이가 세상을 구한다!",
       "artist": "고세구",
-      "category": "FANMADE",
-      "size": 4427197,
-      "sha256": "3bf8ea62db81d27cd84cea75de1affab081f666463241c5359912b93068125fa",
-      "active": false,
+      "category": "ISEDOL",
+      "size": 4427199,
+      "sha256": "65ca52842d357f1cf1152868353a26b18970aeb1d517c613e621681131d3f3ff",
+      "active": true,
       "base_settings": {
         "is_new": true,
-        "category": "FANMADE",
+        "category": "ISEDOL",
         "patterns": [
           {
             "id": "c9efec5f5337ca4d5e3d",
@@ -22,7 +22,7 @@
           }
         ]
       },
-      "url": "https://github.com/hyeonhoi034/wjmax-new-songs/releases/download/wjcs-song-28d336526b8f-v1-3bf8ea62db81/song-28d336526b8f-v1-3bf8ea62db81.zip"
+      "url": "https://github.com/hyeonhoi034/wjmax-new-songs/releases/download/wjcs-song-28d336526b8f-v2-65ca52842d35/song-28d336526b8f-v2-65ca52842d35.zip"
     }
   ]
 }
