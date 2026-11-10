@@ -9,7 +9,7 @@
       "category": "ISEDOL",
       "size": 3141979,
       "sha256": "29a9af45bfcbc2787891b18fb617f27bbc510081be75f66de009b7fa694e4efb",
-      "active": true,
+      "active": false,
       "base_settings": {
         "is_new": true,
         "category": "ISEDOL",
