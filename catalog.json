@@ -81,7 +81,7 @@
       "category": "FANMADE",
       "size": 15793240,
       "sha256": "2f45f1ba95ec95516189fafe6daf8682e807c81ab7f544008a4feda99412dcf1",
-      "active": true,
+      "active": false,
       "base_settings": {
         "is_new": true,
         "category": "FANMADE",
