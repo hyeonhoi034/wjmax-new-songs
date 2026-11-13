@@ -108,6 +108,29 @@
         ]
       },
       "management_revision": 1
+    },
+    {
+      "id": "song-cd28660916b3",
+      "version": 1,
+      "title": "Re Wind",
+      "artist": "이세계아이돌",
+      "category": "ISEDOL",
+      "size": 31191037,
+      "sha256": "dfac3cbba9104ee2c3d30da631d709e53c89037ea970d7aa46789af3f73dd37f",
+      "active": true,
+      "base_settings": {
+        "is_new": true,
+        "category": "ISEDOL",
+        "patterns": [
+          {
+            "id": "a756f28b1f6827cc78b1",
+            "key": 7,
+            "mode": "Wakgood",
+            "level": 15
+          }
+        ]
+      },
+      "url": "https://github.com/hyeonhoi034/wjmax-new-songs/releases/download/wjcs-song-cd28660916b3-v1-dfac3cbba910/song-cd28660916b3-v1-dfac3cbba910.zip"
     }
   ]
 }
